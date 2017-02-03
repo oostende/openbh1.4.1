@@ -3181,6 +3181,9 @@ msgstr "Панель EPG"
 msgid "EPG Search"
 msgstr "Поиск телегида"
 
+msgid "EPG Selection"
+msgstr "Выбор телегида"
+
 msgid "EPG filename"
 msgstr "Название файла телегида"
 
@@ -3374,6 +3377,9 @@ msgstr "Изменения Enigma2"
 
 msgid "Enigma2 skin selector"
 msgstr "Селектор скинов Enigma2"
+
+msgid "Enter a new password"
+msgstr "Введите новый пароль"
 
 msgid "Enter main menu..."
 msgstr "Войти в главное меню..."
@@ -3795,6 +3801,9 @@ msgstr "Французский"
 
 msgid "Frequency"
 msgstr "Частота"
+
+msgid "Frequency & Polarization"
+msgstr "Частота и поляр."
 
 msgid "Frequency bands"
 msgstr "Частотные диапазоны"
@@ -4492,6 +4501,9 @@ msgstr "Некорректные транспондерные данные"
 msgid "Inversion"
 msgstr "Инверсия"
 
+msgid "Inversion, Pilot & Roll-off"
+msgstr "Инвер., пилот, Roll-off"
+
 msgid "Invert"
 msgstr "Инвертировать"
 
@@ -5030,6 +5042,9 @@ msgstr "Пн-Пт"
 msgid "Monday"
 msgstr "Понедельник"
 
+msgid "MORE"
+msgstr "ЕЩЕ"
+
 msgid "Monthly"
 msgstr "Ежемесячно"
 
@@ -5189,6 +5204,9 @@ msgstr "Настройки NFS"
 msgid "NIM"
 msgstr "Слот"
 
+msgid "NIM & Type"
+msgstr "Слот и тип"
+
 msgid "NO"
 msgstr "NO"
 
@@ -5293,6 +5311,9 @@ msgstr "Новости о текущих событиях"
 
 msgid "Next"
 msgstr "Далее"
+
+msgid "NEXT"
+msgstr "ДАЛЕЕ"
 
 msgid "No"
 msgstr "Нет"
@@ -5574,6 +5595,9 @@ msgstr ""
 "Теперь используйте  настройки  контрастности для поднятия фона в максимально возможный "
 "уровень, но при этом необходимо следить,чтобы Вы могли видеть различия между двумя самыми "
 "яркими уровнями оттенков.Если все нормально нажмите OK."
+
+msgid "NOW"
+msgstr "СЕЙЧАС"
 
 msgid "Number"
 msgstr "Номер"
@@ -5862,6 +5886,9 @@ msgstr "Пароль"
 
 msgid "Password (httpwd)"
 msgstr "Пароль (httpwd)"
+
+msgid "Password setup"
+msgstr "Настройки пароля"
 
 msgid "Password:"
 msgstr "Пароль:"
@@ -6595,6 +6622,9 @@ msgstr "Радио"
 
 msgid "Random"
 msgstr "Случайно"
+
+msgid "Random Password"
+msgstr "Случайный пароль"
 
 msgid "Rating defined by broadcaster - %d"
 msgstr "Оценка от провайдера - %d"
@@ -7471,10 +7501,19 @@ msgstr "Серверы:"
 msgid "Service"
 msgstr "О сервисе"
 
+msgid "Service & PIDs"
+msgstr "Сервис и PIDs"
+
+msgid "Service ID"
+msgstr "Сервис ID"
+
 msgid "Service Information"
 msgstr "Информация о сервисе"
 
 msgid "Service Name"
+msgstr "Название сервиса"
+
+msgid "Service name"
 msgstr "Название сервиса"
 
 msgid "Service Title mode"
@@ -7569,6 +7608,9 @@ msgstr "Установить интерфейс по умолчанию"
 
 msgid "Set limits"
 msgstr "Набор ограничений"
+
+msgid "Set Password"
+msgstr "Установить пароль"
 
 msgid "Set startup service"
 msgstr "Назначить стартовым каналом"
@@ -8689,6 +8731,9 @@ msgstr "Переключаемые типы тюнеров:"
 msgid "Symbol rate"
 msgstr "Скорость"
 
+msgid "Symbol rate & FEC"
+msgstr "Скорость и FEC"
+
 msgid "Symbolrate:"
 msgstr "Скорость потока:"
 
@@ -8709,6 +8754,9 @@ msgstr "Инфо системы"
 
 msgid "System"
 msgstr "Система"
+
+msgid "System & Modulation"
+msgstr "Система, модуляция"
 
 msgid "System temp:\t%s"
 msgstr "Температура:\t%s"
@@ -9620,11 +9668,17 @@ msgstr "Тюнер"
 msgid "Tuner is not supported"
 msgstr "Тюнер не поддерживается"
 
+msgid "Tuner live values"
+msgstr "Реальные значения"
+
 msgid "Tuner not available."
 msgstr "Тюнер не доступен."
 
 msgid "Tuner settings"
 msgstr "Настройки тюнера"
+
+msgid "Tuner settings values"
+msgstr "Значения настроек"
 
 msgid "Tuner slot"
 msgstr "Выбор тюнера"
@@ -9640,6 +9694,12 @@ msgstr "Тип тюнера"
 
 msgid "Tuning algorithm"
 msgstr "Алгоритм настройки"
+
+msgid "Tuning info: live values"
+msgstr "Информация: реальные значения"
+
+msgid "Tuning info: settings values"
+msgstr "Информация: значения настроек"
 
 msgid "Turkish"
 msgstr "Турецкий"
@@ -10049,6 +10109,9 @@ msgstr "Видео: %s fps"
 
 msgid "Videocodec"
 msgstr "Видеокодек"
+
+msgid "Videocodec, size & format"
+msgstr "Видеокодек, формат"
 
 msgid "Videoformat"
 msgstr "Формат видео"
@@ -11412,7 +11475,7 @@ msgid "extensions."
 msgstr "Дополнений"
 
 msgid "Extra Settings"
-msgstr "Доп. настр."
+msgstr "Доп. настройки"
 
 msgid "extra wide"
 msgstr "Сверх широкая"
